@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CSH2/CSH2.vcxproj" Id="6ef7ea49-1d50-479e-9811-55daa64a6cad" />
+</Solution>
